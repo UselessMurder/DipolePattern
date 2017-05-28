@@ -1,0 +1,15 @@
+﻿  Dipole_Face.cpp
+  Dipole_radiation_pattern.cpp
+  GL.cpp
+GL.cpp(110): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1465): note:  см. объявление "vsprintf"
+  Создание кода...
+c:\users\murder\documents\visual studio 2015\projects\dipol pattern\dipol pattern\gl.cpp(103): warning C4793: GL::Print_Text: функция скомпилирована как машинная:
+  	varargs не поддерживаются в /clr
+c:\users\murder\documents\visual studio 2015\projects\dipol pattern\dipol pattern\gl.cpp(109): warning C4793: GL::Print_Text: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+c:\users\murder\documents\visual studio 2015\projects\dipol pattern\dipol pattern\gl.cpp(111): warning C4793: GL::Print_Text: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+  .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+  Dipol Pattern.vcxproj -> C:\Users\Murder\Documents\Visual Studio 2015\Projects\Dipol Pattern\Release\Dipole Pattern.exe
+  Dipol Pattern.vcxproj -> C:\Users\Murder\Documents\Visual Studio 2015\Projects\Dipol Pattern\Release\Dipole Pattern.pdb (Full PDB)
